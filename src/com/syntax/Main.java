@@ -1,4 +1,4 @@
-package com.syntax.jenkinsclass01;
+package com.syntax;
 
 public class Main {
 
